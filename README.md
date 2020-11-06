@@ -1,8 +1,8 @@
 # ZoneNet Relay
 
-Global Area Networking. Peer-to-Peer & End-to-End Encryption for every device, anywhere. https://zonenet.io
+Global Area Networking. Peer-to-Peer & End-to-End Encryption for every device, anywhere
 
-This is ZoneNet Relay.
+This is ZoneNet Relay, more https://zonenet.io
 
 ### Install via [nami](https://github.com/txthinking/nami)
 
