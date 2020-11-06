@@ -1,6 +1,8 @@
-# ZoneNet Relay https://zonenet.io
+# ZoneNet Relay
 
-Global Area Networking. Peer-to-Peer & End-to-End Encryption for every device, anywhere. https://zonenet.io
+Global Area Networking. Peer-to-Peer & End-to-End Encryption for every device, anywhere.
+
+https://zonenet.io
 
 This is ZoneNet Relay.
 
