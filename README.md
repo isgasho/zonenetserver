@@ -1,16 +1,18 @@
-# ZoneNet Relay
+# ZoneNet Server
+
+[中文](README_ZH.md)
 
 Global Area Networking. Peer-to-Peer & End-to-End Encryption for every device, anywhere
 
-This is ZoneNet Relay, more https://zonenet.io
+This is ZoneNet Server, this is optional, because zonenet has official servers. more https://zonenet.io
 
 ### Install via [nami](https://github.com/txthinking/nami)
 
 ```
-$ nami install github.com/zonenetio/zonenetrelay
+$ nami install github.com/zonenetio/zonenetserver
 ```
 
-or download binary from [releases](https://github.com/zonenetio/zonenetrelay/releases)
+or download binary from [releases](https://github.com/zonenetio/zonenetserver/releases)
 
 ### Requirements
 
@@ -21,9 +23,9 @@ or download binary from [releases](https://github.com/zonenetio/zonenetrelay/rel
 ### Usage
 
 ```
-$ zonenetrelay --domain yourdomain.com
+$ zonenetserver --domain yourdomain.com
 ```
-> more parameters: $ zonenetrelay --help
+> more parameters: $ zonenetserver --help
 
 ### Daemon
 
